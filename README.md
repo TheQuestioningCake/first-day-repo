@@ -1,5 +1,5 @@
 # first-day-repo
 
-##README
+## README
 
 ### first day repo
